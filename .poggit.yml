@@ -1,0 +1,6 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/RifqyDev/Report-Bug-System-
+build-by-default: true
+branches:
+- 4.0.0
+projects: Report Bug System | /bugs
+...
